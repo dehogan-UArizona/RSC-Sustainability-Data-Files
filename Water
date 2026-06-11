@@ -1,0 +1,11 @@
+%nprocshared=50
+%mem=250GB
+%chk=water.chk
+# opt=loose freq apfd/6-311+g(2d,p) scrf=(solvent=water) scf=xqc
+
+water
+
+0 1
+ O                  0.08833922    0.30035335    0.00000000
+ H                  1.04833922    0.30035335    0.00000000
+ H                 -0.23211536    1.20528918    0.00000000
